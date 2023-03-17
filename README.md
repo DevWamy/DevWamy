@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-STATS
+--------------------
+
+# Stats #
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevWamy&show_icons=true&theme=radical)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWamy&layout=compact&theme=radical)](https://github.com/DevWamy/github-readme-stats)
