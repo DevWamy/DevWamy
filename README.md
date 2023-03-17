@@ -1,4 +1,4 @@
-### Hi there 👋 and welcome to this space dedicated to my projects in development. You will find here the realisations I made in programming. I use this platform to share my work and my knowledge in this field. My name is Nadia, feel free to explore my projects to discover my work and to contact me if you have any questions or comments.
+### Hi there 👋 and welcome to this space dedicated to my projects in development. You will find here the realisations I made in programming. I use this platform to share my work and my knowledge in this field. Feel free to explore my projects to discover my work and to contact me if you have any questions or comments.
 
 <!--
 **DevWamy/DevWamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
---------------------
-
 # Stats #
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevWamy&show_icons=true&theme=radical)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWamy&layout=compact&theme=radical)](https://github.com/DevWamy/github-readme-stats)
