@@ -32,8 +32,8 @@
    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
  </a>
  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/mrdoob/three.js/dev/logo.svg" alt="threejs" width="40" height="40"/>
- </a>
+  <img src="assets/threejs.svg" alt="threejs" width="40" height="40"/>
+</a>
  <a href="https://github.com/pmndrs/drei" target="_blank" rel="noreferrer">
    <img src="assets/drei.svg" alt="drei" width="40" height="40"/>
  </a>
