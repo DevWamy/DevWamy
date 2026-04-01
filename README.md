@@ -34,9 +34,7 @@
  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
   <img src="assets/threejs.svg" alt="threejs" width="40" height="40"/>
 </a>
- <a href="https://github.com/pmndrs/drei" target="_blank" rel="noreferrer">
-   <img src="assets/drei.svg" alt="drei" width="40" height="40"/>
- </a>
+![Drei](https://img.shields.io/badge/-Drei-00C8FF?style=flat-square)
 </p>
   
 ### Backend ###
