@@ -28,13 +28,7 @@
  ### Web 3D & Tools ###
 
 <p>
- <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-   <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
- </a>
- <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-  <img src="assets/threejs.svg" alt="threejs" width="40" height="40"/>
-</a>
-![Drei](https://img.shields.io/badge/-Drei-00C8FF?style=flat-square)
+💻 Web 3D: Three.js, Drei, WebGL
 </p>
   
 ### Backend ###
